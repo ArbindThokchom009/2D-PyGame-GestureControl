@@ -7,4 +7,5 @@ A 2D game developed using PyGame with hand gesture control mechanics implemented
 
 ## Installation
 To run the project, you need to install `pygame`, `cv`, `cvzone`, and `mediapipe`. 
+## `opencv-python`
 cv - Computer-Vision
